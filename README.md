@@ -1,5 +1,5 @@
 # <img src="https://img.icons8.com/3d-fluency/94/robot.png" width="50"/> RAGentX  
-### *Your Autonomous AI Research & Automation Agent*  
+### *My Autonomous AI Research & Automation Agent*  
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/RAGentX/blob/main/LICENSE)  
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)  
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qY2x4dWJ5d3l1ZzF6Z2R4Y2R5Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Zw.GIF" alt="RAGentX Demo" width="600"/>  
-  *(Example GIF: Replace with a screen recording of your agent in action!)*  
+  *(Example GIF: Replace with a screen recording of agent in action!)*  
 </p>
 
 ---
@@ -33,6 +33,6 @@ Perfect for researchers, developers, and content creators who want an AI "copilo
 | **Tools**        | ![Python](https://img.icons8.com/color/48/python.png) Custom Python Tools (summarizer, coder, planner) |
 | **Deployment**   | ![HuggingFace](https://img.icons8.com/color/48/hugging-face.png) Hugging Face Spaces, ![Vercel](https://img.icons8.com/color/48/vercel.png) Vercel |
 
-*(Icons from [icons8.com](https://icons8.com) – replace with your own or use emojis.)*  
+*(Icons from [icons8.com](https://icons8.com) – replace with my own or use emojis.)*  
 
 ---
