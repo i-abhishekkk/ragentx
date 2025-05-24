@@ -1,0 +1,12 @@
+# Step-1 -> clone git repo to vs code
+
+# Step-1
+python -m venv venv
+
+# Step-2
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+# Step-3
+pip install -r requirements.txt
+

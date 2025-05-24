@@ -1,0 +1,5 @@
+langgraph
+llama-index
+chromadb
+streamlit
+python-dotenv
